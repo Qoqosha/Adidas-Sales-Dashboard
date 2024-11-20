@@ -14,5 +14,5 @@ Sales Data: The primary dataset used for this analysis is the "Adidas _Sales_Dat
 
 ### Tools
 
-- Excel Data [Download here](https://microsoft.com//Adidas _Sales_Data.xlsx)
+- Excel Data [Download here](https://docs.google.com/spreadsheets/d/1Eq2WOI72I_3MGBtpFZaeuch5WjSlM-r3/edit?gid=664231576#gid=664231576)
 - Excel Creating Reports
