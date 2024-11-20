@@ -7,6 +7,10 @@ This project focuses on analyzing key performance indicators (KPIs) for an e-com
 Deliverables include interactive dashboards, monthly reports, and actionable insights. The analysis will optimize decision-making, enhance customer retention, and ensure alignment with business objectives, driving overall growth and profitability.
 
 
+![Dashboard](https://github.com/user-attachments/assets/3f5fbf5e-3cbf-4576-b31c-1193985362f5)
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "Adidas _Sales_Data.xlsx" file, containing detailed information about each sales made by the company
