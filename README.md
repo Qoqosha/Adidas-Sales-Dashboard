@@ -7,7 +7,7 @@ This project focuses on analyzing key performance indicators (KPIs) for an e-com
 Deliverables include interactive dashboards, monthly reports, and actionable insights. The analysis will optimize decision-making, enhance customer retention, and ensure alignment with business objectives, driving overall growth and profitability.
 
 
-![Dashboard](https://github.com/user-attachments/assets/3f5fbf5e-3cbf-4576-b31c-1193985362f5)
+![Dashboard]([https://github.com/user-attachments/assets/3f5fbf5e-3cbf-4576-b31c-1193985362f5](https://github.com/Qoqosha/Adidas-Sales-Dashboard/blob/main/Adidas%20Excel.jpg))
 
 
 
